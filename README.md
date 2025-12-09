@@ -18,12 +18,12 @@
 
 ### 🧐 About Me
 
-[cite_start]I am a Computer Science student at **Binus University** (GPA 3.93) [cite: 10, 11] [cite_start]participating in a double degree program with **RMIT University, Melbourne**[cite: 12].
+I am a Computer Science student at **Binus University** (GPA 3.93) participating in a double degree program with **RMIT University, Melbourne**.
 
-* [cite_start]🔭 **Current Role:** Manager of Web Development at **HIMTI** (Binus Student Association), leading 70+ members[cite: 14, 16].
-* [cite_start]🌱 **Passion:** Building scalable applications and automating deployment workflows with CI/CD[cite: 8].
-* [cite_start]💼 **Experience:** Previously served as Web Development Coordinator for **HISHOT 2024** and interned at Kopi Soe[cite: 21, 27].
-* [cite_start]🎓 **Research:** Published research on Machine Learning at the 2025 ICISS Conference[cite: 38].
+* 🔭 **Current Role:** Manager of Web Development at **HIMTI** (Binus Student Association), leading 70+ members.
+* 🌱 **Passion:** Building scalable applications and automating deployment workflows with CI/CD.
+* 💼 **Experience:** Previously served as Web Development Coordinator for **HISHOT 2024** and interned at Kopi Soe.
+* 🎓 **Research:** Published research on Machine Learning at the 2025 ICISS Conference.
 
 ---
 
@@ -61,18 +61,9 @@
 
 ### 🚀 Featured Projects
 
-* [cite_start]**Bot Tweet Detection (ML):** Scraped 16,000+ tweets and trained classification models to distinguish humans from bots using Python and Pandas[cite: 37, 40, 41].
-* **Dentistry Helpdesk System:** A support ticketing web app built with React, Node.js, and MongoDB. [cite_start]Implemented CI/CD pipelines for automated deployment[cite: 31, 33, 36].
-* [cite_start]**TodoList Web App:** A responsive CRUD application utilizing Google OAuth2 via Firebase, containerized with Docker[cite: 42, 43, 45].
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinj0nathan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinj0nathan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+* **Bot Tweet Detection (ML):** Scraped 16,000+ tweets and trained classification models to distinguish humans from bots using Python and Pandas.
+* **Dentistry Helpdesk System:** A support ticketing web app built with React, Node.js, and MongoDB. Implemented CI/CD pipelines for automated deployment.
+* **TodoList Web App:** A responsive CRUD application utilizing Google OAuth2 via Firebase, containerized with Docker.
 
 ---
 
