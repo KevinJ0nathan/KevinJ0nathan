@@ -9,7 +9,7 @@
   <a href="mailto:realkevinjonathan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://github.com/kevinjonathan">
+  <a href="https://kevinjonathan-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Check%20It%20Out-blueviolet?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
